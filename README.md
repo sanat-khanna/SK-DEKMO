@@ -1,2 +1,3 @@
-# SK-DEKMO
+# SK-DEMO
 FIRST GIT REPOSITORY
+Author - Sanat Khanna
